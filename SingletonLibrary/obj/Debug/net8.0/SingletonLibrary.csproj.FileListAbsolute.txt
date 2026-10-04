@@ -1,0 +1,11 @@
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.AssemblyInfoInputs.cache
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.AssemblyInfo.cs
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.csproj.CoreCompileInputs.cache
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\bin\Debug\net8.0\SingletonLibrary.deps.json
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\bin\Debug\net8.0\SingletonLibrary.dll
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\bin\Debug\net8.0\SingletonLibrary.pdb
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.dll
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\obj\Debug\net8.0\refint\SingletonLibrary.dll
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\obj\Debug\net8.0\SingletonLibrary.pdb
+D:\БГТУ\бгту2курс\ПП\SingletonLibrary\obj\Debug\net8.0\ref\SingletonLibrary.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PP03(2)/1.0.0": {
+        "dependencies": {
+          "Lec03LibN2": "1.0.0"
+        },
+        "runtime": {
+          "PP03(2).dll": {}
+        }
+      },
+      "Lec03LibN2/1.0.0": {
+        "runtime": {
+          "Lec03LibN2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PP03(2)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lec03LibN2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

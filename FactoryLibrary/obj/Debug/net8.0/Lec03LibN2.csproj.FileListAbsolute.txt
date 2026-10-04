@@ -1,0 +1,11 @@
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\bin\Debug\net8.0\Lec03LibN2.deps.json
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\bin\Debug\net8.0\Lec03LibN2.dll
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\bin\Debug\net8.0\Lec03LibN2.pdb
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\obj\Debug\net8.0\Lec03LibN2.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\obj\Debug\net8.0\Lec03LibN2.AssemblyInfoInputs.cache
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\obj\Debug\net8.0\Lec03LibN2.AssemblyInfo.cs
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\obj\Debug\net8.0\Lec03LibN2.csproj.CoreCompileInputs.cache
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\obj\Debug\net8.0\Lec03LibN2.dll
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\obj\Debug\net8.0\refint\Lec03LibN2.dll
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\obj\Debug\net8.0\Lec03LibN2.pdb
+D:\БГТУ\бгту2курс\ПП\Lec03LibN2\obj\Debug\net8.0\ref\Lec03LibN2.dll

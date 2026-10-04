@@ -1,0 +1,11 @@
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\bin\Debug\net8.0\Lab5Lib.deps.json
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\bin\Debug\net8.0\Lab5Lib.dll
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\bin\Debug\net8.0\Lab5Lib.pdb
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\obj\Debug\net8.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\obj\Debug\net8.0\Lab5Lib.AssemblyInfoInputs.cache
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\obj\Debug\net8.0\Lab5Lib.AssemblyInfo.cs
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\obj\Debug\net8.0\Lab5Lib.csproj.CoreCompileInputs.cache
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\obj\Debug\net8.0\Lab5Lib.dll
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\obj\Debug\net8.0\refint\Lab5Lib.dll
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\obj\Debug\net8.0\Lab5Lib.pdb
+D:\БГТУ\бгту2курс\ПП\Lab5Lib\obj\Debug\net8.0\ref\Lab5Lib.dll
